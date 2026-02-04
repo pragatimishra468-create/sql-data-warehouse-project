@@ -31,4 +31,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## About me
 
-Hi there! I'm Pragati Mishra. I'm passionate statistcs student and I enjoy to play with data!
+Hi there! I'm Pragati Mishra. I'm passionate statistics student and I enjoy to play with data!
